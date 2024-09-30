@@ -19,7 +19,7 @@ public: Codigo para las funcionabilidades generales
 
 En cada carpeta debemos crear un index.php en el cual solo colocaremos:
 
-<?php
+//<?php
 // Silence is golden
 
 para temas de seguridad simplemente.
@@ -54,3 +54,5 @@ para esto tiene los siguientes metodos:
 https://developer.wordpress.org/plugins/users/roles-and-capabilities/
 
 https://developer.wordpress.org/plugins/plugin-basics/activation-deactivation-hooks/
+
+Este plugin es funcional
